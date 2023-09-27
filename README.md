@@ -12,7 +12,7 @@ Esta aplicación te permite realizar conversiones de divisas de manera rápida y
 
 ## Ejemplo
 
-![Demo](demo.gif)
+![Conversor](conversor.gif)
 
 ## Empezando 🚀
 
